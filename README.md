@@ -1,0 +1,1 @@
+En este repositorio se va a guardar el DER del guarani en formato imagen .png y en .mysql
